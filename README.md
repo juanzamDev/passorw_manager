@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a Python application designed to [briefly describe the purpose of the project]. The repository includes the main Python script `main.py`, configuration data in `data.json`, and dependency management handled by Poetry (`poetry.lock`).
+This project is a Python application designed to manage and store the passwords of all your websites. The repository includes the main Python script `main.py`, configuration data in `data.json`, and dependency management handled by Poetry (`poetry.lock`).
 
 ## Features
 
