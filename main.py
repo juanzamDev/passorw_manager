@@ -75,10 +75,7 @@ def find_password():
             messagebox.showinfo(title=website, message=f"Email: {email}\nPassword: {password}")
         else:
             messagebox.showinfo(title=website, message=f"No website found")
-    
-             
-               
-            
+                
 # ---------------------------- UI SETUP ------------------------------- #
 
 window = Tk()
