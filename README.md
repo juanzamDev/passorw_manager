@@ -1,4 +1,3 @@
-
 # Project Name
 
 ## Overview
@@ -7,9 +6,9 @@ This project is a Python application designed to manage and store the passwords 
 
 ## Features
 
-- **Feature 1:** [Describe a key feature]
-- **Feature 2:** [Describe another feature]
-- **Feature 3:** [Describe an additional feature]
+- **Feature 1:** Store your data in json
+- **Feature 2:** Search for website's' email-pass
+- **Feature 3:** Interactive screen
 
 ## Requirements
 
@@ -32,26 +31,7 @@ This project is a Python application designed to manage and store the passwords 
 
 ## Usage
 
-1. **Prepare configuration:**
-   Ensure your `data.json` file is correctly set up with the necessary credentials:
-   ```json
-   {
-       "GOOGLE": {
-           "email": "angela@gmail.com",
-           "password": "your_google_password"
-       },
-       "X": {
-           "email": "angela@gmail.com",
-           "password": "your_x_password"
-       },
-       "INSTAGRAM": {
-           "email": "angela@gmail.com",
-           "password": "your_instagram_password"
-       }
-   }
-   ```
-
-2. **Run the main script:**
+1. **Run the main script:**
    Execute the `main.py` script to start the application.
    ```bash
    poetry run python main.py
